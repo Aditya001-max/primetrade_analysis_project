@@ -1,6 +1,4 @@
 # Trader Performance vs Market Sentiment
-### Round-0 
-
 ---
 
 ## Overview
