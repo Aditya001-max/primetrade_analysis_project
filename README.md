@@ -1,5 +1,5 @@
-# Primetrade.ai — Trader Performance vs Market Sentiment
-### Round-0 Data Science Intern Assignment
+# Trader Performance vs Market Sentiment
+### Round-0 
 
 ---
 
